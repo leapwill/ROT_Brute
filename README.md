@@ -1,3 +1,5 @@
+#ROT_Brute
+
 A simple program that takes in a ROT ciphertext and checks it for ROT1-ROT26 possibilities against a scrabble wordlist.
 Pseudocode:
 * Take in ciphertext from user.
